@@ -1,0 +1,8 @@
+Qcli.py
+setup.py
+Qcli.egg-info/PKG-INFO
+Qcli.egg-info/SOURCES.txt
+Qcli.egg-info/dependency_links.txt
+Qcli.egg-info/entry_points.txt
+Qcli.egg-info/requires.txt
+Qcli.egg-info/top_level.txt
